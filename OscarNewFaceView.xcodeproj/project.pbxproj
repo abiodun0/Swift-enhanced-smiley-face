@@ -13,6 +13,7 @@
 		5C0DEB021D04D507007DD0BB /* OscarNewFaceView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5C0DEB001D04D507007DD0BB /* OscarNewFaceView.xcdatamodeld */; };
 		5C0DEB041D04D507007DD0BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C0DEB031D04D507007DD0BB /* Assets.xcassets */; };
 		5C0DEB071D04D507007DD0BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C0DEB051D04D507007DD0BB /* LaunchScreen.storyboard */; };
+		5C0DEB0F1D04D527007DD0BB /* OscarFace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C0DEB0E1D04D527007DD0BB /* OscarFace.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5C0DEB031D04D507007DD0BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C0DEB061D04D507007DD0BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C0DEB081D04D507007DD0BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C0DEB0E1D04D527007DD0BB /* OscarFace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OscarFace.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5C0DEB051D04D507007DD0BB /* LaunchScreen.storyboard */,
 				5C0DEB081D04D507007DD0BB /* Info.plist */,
 				5C0DEB001D04D507007DD0BB /* OscarNewFaceView.xcdatamodeld */,
+				5C0DEB0E1D04D527007DD0BB /* OscarFace.swift */,
 			);
 			path = OscarNewFaceView;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C0DEAFC1D04D507007DD0BB /* ViewController.swift in Sources */,
+				5C0DEB0F1D04D527007DD0BB /* OscarFace.swift in Sources */,
 				5C0DEAFA1D04D507007DD0BB /* AppDelegate.swift in Sources */,
 				5C0DEB021D04D507007DD0BB /* OscarNewFaceView.xcdatamodeld in Sources */,
 			);
